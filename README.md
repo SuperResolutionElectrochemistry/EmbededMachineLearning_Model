@@ -1,2 +1,2 @@
 # EmbledMachineLearning_Model
-Supporting code for publilcation: High-Throughput Experimentation and Ensemble-Machine-Learning Enable Accelerated Discovery of Efficient High-Entropy Alloy Electrocatalysts
+Supporting code for publilcation: Accelerating the Discovery of Efficient High-Entropy Alloy Electrocatalysts: High-Throughput Experimentation and Data-Driven Strategies
